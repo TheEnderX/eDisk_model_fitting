@@ -1,2 +1,14 @@
-# eDisk_model_fitting
-Modified Models for Protoplanetary Disk Analysis  This repository contains enhanced modeling tools based on pdspy, specifically developed for analyzing ALMA interferometric observations of protoplanetary disks. The modifications focus on improving model fitting capabilities for complex disk structures, particularly for binary systems.
+# Modified Models for Protoplanetary Disk Fitting Based on pdspy
+
+This repository contains modified and extended models based on the [pdspy package](https://github.com/psheehan/pdspy) by Patrick Sheehan. These modifications were developed during the research with the eDisk program at UIUC.
+
+## Overview
+This project extends the original model fitting code functionality with:
+- Availability for binary disk model fitting
+- Modified asymmetric ring model
+- Stacked-disks model implementation
+- Printing out native model for profile analysis
+
+## Dependencies
+- pdspy (original package)
+- Python 3
