@@ -5,10 +5,9 @@ This repository contains modified and extended models and fitting codes based on
 ## Overview
 This project extends the original model fitting code functionality with:
 - Availability for binary (or more) disks model fitting
-- Modified asymmetric ring models
-- Stacked-disks model
-- Other useful models
-- Printing out native model for profile analysis
+- Modifying and creating new models, such as asymmetry models, stacked-disk models, etc.
+- Creating native model for profile analysis
+- Other modification of the existing codebase for better compatibility and performance
 
 ## Dependencies
 - Python 3
