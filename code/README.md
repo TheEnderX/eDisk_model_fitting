@@ -32,4 +32,4 @@ This project builds upon an initial codebase provided by the eDisk collaboration
    - Improved compatibility of existing scripts
    - Allowed printing out native model for profile analysis
 
-All listed enhancements and extensions were designed and implemented by me. The original codebase is included in the [`original/`](original/) directory for reference.
+All listed enhancements and extensions were designed and implemented by me. The original codebase is included in the [`original/`](eDisk_model_fitting/original/) directory for reference.
