@@ -16,3 +16,10 @@ This project extends the original model fitting code functionality with:
 - [pdspy](https://github.com/psheehan/pdspy)
 - [dynesty](https://github.com/joshspeagle/dynesty)
 - Other Python Libraries: numpy, matplotlib, mpi4py
+
+## Directories
+- [`code/`](code/): Contains all current source code.
+  - [`model.py`](code/model.py): Single-disk modeling code.
+  - [`model_binary.py`](code/model_binary.py): Binary-disk modeling code.
+  - [`model_trinary.py`](code/model_trinary.py): Trinary-disk modeling code.
+- [`original/`](original/): Original unmodified code provided at the start of the project.
